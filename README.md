@@ -8,7 +8,7 @@
 
 ## Usage
 
-<p>Simply access the <a href="https://github.com/toni-the-dude/Linear-Regression/edit/main/Univariate Linear Regression.ipynb">jupiter notebook file</a> attached to this repository to be able to see the code in action.</p>
+<p>Simply access the <a href="https://github.com/toni-the-dude/Linear-Regression/blob/main/Univariate%20Linear%20Regression.ipynb">jupiter notebook file</a> attached to this repository to be able to see the code in action.</p>
 
 ## Walkthrough
 
